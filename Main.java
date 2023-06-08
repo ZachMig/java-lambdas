@@ -105,6 +105,12 @@ interface UpperConcat {
 	public String upperAndConcat(String s1, String s2);
 }
 
+
+/**
+ * Adding some new feature...test
+ * @author zmigliorini
+ *
+ */
 class AnotherClass {
 	public String doSomething() {
 		
