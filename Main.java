@@ -3,6 +3,13 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+
+/**
+ * @author zmigliorini
+ * 
+ * Test program to learn how to use lambda expressions to implement functional interfaces.
+ *
+ */
 public class Main {
 	
 	public static void main(String[] args) {
